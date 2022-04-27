@@ -1,2 +1,2 @@
-# LGM_TASK_NO.1
+# Iris Flowers Classification
 In this project,iris flowers dataset contains numeric attributes, and it is perfect for beginners to learn about supervised ML algorithms, mainly how to load and handle data. Also, since this is a small dataset, it can easily fit in memory without requiring special transformations or scaling capabilities.By means of this project beginner could get to know about the classification in machine learning and able to classify iris species from different features of the iris flower dataset.
